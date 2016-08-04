@@ -14,5 +14,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.1382469858508557
 name: Herbs of the Gods
+navigation:
+  - name: CBD wiet
+    url: 'https://www.dinafem.org/nl/industrial-plant-autoflowering-cbd/'
+    type: external
 title: Love life
 description: Nature heals
