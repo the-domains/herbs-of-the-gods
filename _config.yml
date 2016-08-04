@@ -1,14 +1,17 @@
-layout_spectrum: 0.1382469858508557
 typography_spectrum: 0.8104852077085525
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8226097065489739
   lightness: 0.7247383072972298
   saturation: 0.1342701620887965
   rhythmicContrast: 0.9447864098474383
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.1382469858508557
 name: Herbs of the Gods
+title: Love life
